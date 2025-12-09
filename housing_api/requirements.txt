@@ -3,4 +3,3 @@ joblib
 flask
 scikit-learn
 numpy
-uvicorn
